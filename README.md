@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @novakk99       
 - 👀 I’m interested in web3      
-- 🌱 I’m currently learning Spanish 
+- 🌱 I’m currently learning Spanish  
 
 
 <!---
